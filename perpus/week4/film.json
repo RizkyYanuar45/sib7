@@ -1,0 +1,75 @@
+{
+  "film": [
+    {
+      "title": "Raja Jawa",
+      "director": "El Kecepatan",
+      "year": 1934,
+      "imgpath": "./img/rajajawa.jpeg",
+      "type": "trending"
+    },
+    {
+      "title": "Guru Bangsa : Tjokroaminoto",
+      "director": "Garin Nugroho",
+      "year": 2015,
+      "imgpath": "./img/tjokro.jpg",
+      "type": "trending"
+    },
+    {
+      "title": "Bumi Manusia",
+      "director": "Hanung Bramantyo",
+      "year": 2019,
+      "imgpath": "./img/bumi.jpg",
+      "type": "trending"
+    },
+    {
+      "title": "Buffalo Boys",
+      "director": "Mike Wiluan",
+      "year": 2018,
+      "imgpath": "./img/buffalo.jpg",
+      "type": "trending"
+    },
+    {
+      "title": "DE OOST",
+      "director": "Jim Taihuttu",
+      "year": 2020,
+      "imgpath": "./img/deoost.jpg",
+      "type": "trending"
+    },
+
+    {
+      "title": "DE OOST",
+      "director": "Jim Taihuttu",
+      "year": 2020,
+      "imgpath": "./img/deoost.jpg",
+      "type": "latest"
+    },
+    {
+      "title": "Bumi Manusia",
+      "director": "Hanung Bramantyo",
+      "year": 2019,
+      "imgpath": "./img/bumi.jpg",
+      "type": "latest"
+    },
+    {
+      "title": "Kartini",
+      "director": "Hanung Bramantyo",
+      "year": 2017,
+      "imgpath": "./img/kartini.jpg",
+      "type": "latest"
+    },
+    {
+      "title": "Max Havelar",
+      "director": "Fons Rademakers",
+      "year": 1977,
+      "imgpath": "./img/MaxH.jpg",
+      "type": "latest"
+    },
+    {
+      "title": "Raja Jawa",
+      "director": "El Kecepatan",
+      "year": 1934,
+      "imgpath": "./img/rajajawa.jpeg",
+      "type": "latest"
+    }
+  ]
+}
